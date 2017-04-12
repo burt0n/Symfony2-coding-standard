@@ -23,6 +23,6 @@
     "minimum-stability": "dev",
     "repositories": [{"type": "vcs", "url": "https://github.com/burt0n/PHP_CodeSniffer"}],
     "require": {
-        "burt0n/PHP_CodeSniffer": "~2.0"
+        "burt0n/PHP_CodeSniffer": "~3.0"
     }
 }
