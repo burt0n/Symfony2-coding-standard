@@ -22,7 +22,7 @@
     },
     "minimum-stability": "dev",
     "repositories": [{"type": "vcs", "url": "https://github.com/burt0n/PHP_CodeSniffer"}],
-    "require": {
+    "require-dev": {
         "squizlabs/php_codesniffer": "dev-master"
     }
 }
